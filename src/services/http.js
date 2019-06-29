@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://lingoda.dev';
+const API_URL = 'http://localhost';
 
 export default class http {
     static get(url) {
